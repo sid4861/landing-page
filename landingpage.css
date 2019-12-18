@@ -1,0 +1,30 @@
+#content{
+    text-align: center;
+    padding-top: 25%;
+    text-shadow: 0px 4px 3px rgba(0, 0, 0, alpha),
+                    0px 8px 13px,
+                    0px 18px 23px ;
+}
+
+body{
+    background: url("https://www.thesprucepets.com/thmb/q-cg9Wu4l2Y7hFi5r61vFcLF1gY=/960x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-RagdollCatCasper5137x3424-577ef1195f9b5831b59cc053.jpg");
+    background-position: center;
+    background-size: cover;
+    font-family: 'Lato', sans-serif;
+    color: white;
+}
+
+h1{
+    font-size: 5em;
+    font-weight: 700;
+}
+
+html{
+    height: 100%;
+}
+
+hr{
+    width: 400px;
+    border-top: 1px solid white;
+    border-bottom: 1px solid white;
+}
